@@ -1,0 +1,83 @@
+body{
+    background-color: rgba(46, 46, 46, 0.425);
+}
+
+header {
+    width: auto;
+    height: auto;
+    background-color: aqua;
+}
+
+footer {
+    width: auto;
+    height: auto;
+    background-color: aquamarine;
+}
+
+#Table-Box {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid;
+}
+
+#T1C1{
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+}
+#T1C2{
+    background-color: rgb(255, 238, 0);
+}
+#T1C3{
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+}
+#T1C4{
+    background-color: rgb(204, 255, 145);
+}
+
+
+#T2C1{
+    background-color: rgb(2, 194, 162);
+    text-align: center;
+}
+#T2C2{
+    background-color: rgb(0, 102, 255);
+}
+#T2C3{
+    background-color: rgb(33, 35, 180);
+    text-align: center;
+}
+#T2C4{
+    background-color: rgb(50, 248, 255);
+}
+
+#T3C1{
+    background-color: rgb(255, 0, 242);
+    text-align: center;
+}
+#T3C2{
+    background-color: rgb(140, 0, 255);
+}
+#T3C3{
+    background-color: rgb(255, 0, 128);
+    text-align: center;
+}
+#T3C4{
+    background-color: rgb(255, 0, 76);
+}
+
+
+#T4C1{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+#T4C2{
+    background-color: rgb(143, 0, 55);
+}
+#T4C3{
+    background-color: rgb(112, 0, 97);
+    text-align: center;
+}
+#T4C4{
+    background-color: rgb(161, 1, 63);
+}
